@@ -1,4 +1,4 @@
-# sortMethods
+# Sort Methods
 C# sort methods.
 
 Description:
