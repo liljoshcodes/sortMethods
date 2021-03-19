@@ -1,0 +1,13 @@
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\bin\Debug\netcoreapp3.1\Recursive Binary Search.exe
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\bin\Debug\netcoreapp3.1\Recursive Binary Search.deps.json
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\bin\Debug\netcoreapp3.1\Recursive Binary Search.runtimeconfig.json
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\bin\Debug\netcoreapp3.1\Recursive Binary Search.runtimeconfig.dev.json
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\bin\Debug\netcoreapp3.1\Recursive Binary Search.dll
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\bin\Debug\netcoreapp3.1\Recursive Binary Search.pdb
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.csprojAssemblyReference.cache
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.AssemblyInfoInputs.cache
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.AssemblyInfo.cs
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.csproj.CoreCompileInputs.cache
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.dll
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.pdb
+E:\Josh\Documents\Education\University\Post Graduate\Computer Programming\Repos\Recursive Binary Search\Recursive Binary Search\obj\Debug\netcoreapp3.1\Recursive Binary Search.genruntimeconfig.cache
